@@ -1,0 +1,5 @@
+{
+  "name": "Korean Multi-Language Translator",
+  "description": "An application that translates Korean text into English, Japanese, Chinese, Vietnamese, and German using the Gemini API, providing a seamless and visually appealing translation experience.",
+  "requestFramePermissions": []
+}
